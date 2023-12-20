@@ -1,0 +1,8 @@
+../Core/Src/LCD2004.c:34:6:delay	16	static
+../Core/Src/LCD2004.c:42:6:send_to_lcd	16	static
+../Core/Src/LCD2004.c:62:6:lcd_send_cmd	24	static
+../Core/Src/LCD2004.c:75:6:lcd_send_data	24	static
+../Core/Src/LCD2004.c:88:6:lcd_clear	8	static
+../Core/Src/LCD2004.c:94:6:lcd_put_cur	16	static
+../Core/Src/LCD2004.c:116:6:lcd_init	8	static
+../Core/Src/LCD2004.c:142:6:lcd_send_string	16	static
